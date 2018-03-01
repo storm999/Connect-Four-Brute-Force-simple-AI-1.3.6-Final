@@ -1,0 +1,102 @@
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\storm999\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+L:\__Other\My programs\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Desktop\AI_3moveForwardInProcess\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3moveForwardInProcess - Kopya\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3move Forward Seems Done - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\etahozd\Desktop\AI_3move Forward Done, Board Size enhanced\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.2 - hopefully final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\AI retail 1.3.3 final\AI retail 1.3.5 beta\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
